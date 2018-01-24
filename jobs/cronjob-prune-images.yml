@@ -70,7 +70,7 @@ parameters:
   required: true
 - name: JOB_SERVICE_ACCOUNT
   displayName: Service Account Name
-  description: Name of the Service Account To Exeucte the Job As.
+  description: Name of the Service Account To Execute the Job As.
   value: pruner
   required: true
 - name: IMAGE_PRUNE_KEEP_TAG_REVISIONS
